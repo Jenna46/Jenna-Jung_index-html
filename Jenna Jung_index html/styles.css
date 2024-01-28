@@ -1,0 +1,13 @@
+h1{
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+    text-align: center;
+}
+
+figure{
+    float: right;
+}
+
+section{
+    clear: both;
+}
